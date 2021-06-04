@@ -1,5 +1,8 @@
 # EE5934
-Project 2 (Human Protein Atlas - Single Cell Classification (Kaggle Competition))
+Project 2 (Human Protein Atlas - Single Cell Classification (Kaggle Competition))  
+Competition page: https://www.kaggle.com/c/hpa-single-cell-image-classification/overview
+
+
 
 Only the code notebooks were uploaded.
 Results were not uploaded due to file size limitation
